@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **borojetski/borojetski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Group 3 (1)](/images/warsaw_banner.jpg)
+# Hi. My name is Paul...
 
-![Title Banner - Paul Borowiecki, Software Engineer](#)
+I'm a software engineer and something blurby blurb.
 
-# Hello! My name is Paul...
+- I’m currently working on [OpenPCR](https://#), a modern, web-based Patient Care Reporting tool for healthcare providers.
 
-- I’m currently working on [OpenPCR](https://#)
+- To see my portfolio, please visit [https://paulborowiecki.netlify.app/](https://paulborowiecki.netlify.app/). There you'll find some of the client sites and personal projects that I've worked on.
 
-- To see my portfolio site, please visit [https://paulborowiecki.netlify.app/](https://paulborowiecki.netlify.app/)
-
-- Ask me about...whatever is on your mind.
+- Ask me about...literally anything.
 <br>
 <br>
 <h2 align="center">Connect with me </h2>
