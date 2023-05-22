@@ -1,8 +1,8 @@
 <svg width="74" height="79" viewBox="0 0 74 79" xmlns="http://www.w3.org/2000/svg">
 <style>
     :root { --color: #507C72; }
-    @media (prefers-color-scheme: light) { :root { --color: black; } }
-    @media (prefers-color-scheme: dark) { :root { --color: white; } }
+    @media (prefers-color-scheme: light) { :root { --color: #507C72; } }
+    @media (prefers-color-scheme: dark) { :root { --color: #507C72; } }
     path {
       fill: #507C72;
       stroke: #507C72;
