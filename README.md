@@ -43,7 +43,7 @@ I'm a software engineer and something blurby blurb.
 <br>
 <br> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/node.svg" alt="nodejs" width="5%" height="36px"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/express.svg" alt="express" width="5%" height="36px"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/black/Express_black.svg" alt="express" width="5%" height="36px"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/mongodb.svg" alt="mongodb" width="5%" height="36px"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/postgresql.svg" alt="postgresql" width="5%" height="36px"/> </a> 
 <br>
