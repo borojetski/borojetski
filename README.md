@@ -39,7 +39,7 @@ As a software engineer, I enjoy solving puzzles and building things. Software to
 <br>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/react.svg" alt="react" width="5%" height="36px"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/node.svg" alt="nodejs" width="5%" height="36px"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/black/express.svg" alt="express" width="5%" height="36px"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/express.svg" alt="express" width="5%" height="36px"/> </a>
 <br>
 <br> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/mongodb.svg" alt="mongodb" width="5%" height="36px"/> </a>
