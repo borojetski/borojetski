@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 ![Group 3 (1)](/images/warsaw_banner.jpg)
 # Hi. My name is Paul...
 
-I'm a software engineer and something blurby blurb.
+As a software engineer, I enjoy solving puzzles and building things. Software tools unlock near limitless potential, akin to magic. Am I a wizard? Of course not, I prefer the term sorcerer. Experience in government as well as healthcare, coupled with a lifelong love of computers and tinkering have given me insight into many aspects of problem-solving and working with, for, adjacent to, and around others. No matter how large a project or problem, I find that any situation can be managed, one step at a time.
 
 - I’m currently working on [OpenPCR](https://#), a modern, web-based Patient Care Reporting tool for healthcare providers.
 
-- To see my portfolio, please visit [https://paulborowiecki.netlify.app/](https://paulborowiecki.netlify.app/). There you'll find some of the client sites and personal projects that I've worked on.
-
-- Ask me about...literally anything.
+- Check out my portfolio at [https://paulborowiecki.netlify.app/](https://paulborowiecki.netlify.app/). There you'll find some of the client sites and personal projects that I've worked on.
 <br>
 <br>
 <h2 align="center">Connect with me </h2>
