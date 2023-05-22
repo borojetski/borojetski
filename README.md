@@ -26,7 +26,7 @@ I'm a software engineer and something blurby blurb.
 <br>
 <h2 align="center">Connect with me </h2>
 <div align="center" style="background:#ffffff;border-radius:5px;">
-<a href="https://twitter.com/borojetski" target="blank"><img align="center" src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/twitter.svg" alt="" width="10%" height="48px"/></a>
+<a href="https://twitter.com/borojetski" target="blank"><img align="center" src="https://github.com/borojetski/borojetski/blob/main/icons/twitter.svg" alt="" width="10%" height="48px"/></a>
 <a href="https://www.linkedin.com/in/pborowiecki/" target="blank"><img align="center" src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/linkedin.svg" alt="" width="10%" height="48px"/></a>
 <a href="https://techhub.social/@borojetski" target="blank"><img align="center" src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/instagram.svg" alt="" width="10%" height="48px"/></a>
 </div>
