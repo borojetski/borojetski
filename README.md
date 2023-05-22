@@ -51,7 +51,3 @@ I'm a software engineer and something blurby blurb.
 <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/11ty.svg" alt="eleventy" width="5%" height="36px"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/git.svg" alt="git" width="5%" height="36px"/> </a>
 </div>
-<br>
-<br>
-<h2 align="center">📈 Stats</h2>
-<div align="center">
