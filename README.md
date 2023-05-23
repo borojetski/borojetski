@@ -4,10 +4,10 @@ Hi. My name is Paul and I'm a software engineer. Experience in government as wel
 
 - I’m currently working on [OpenPCR](https://#), a modern, web-based Patient Care Reporting tool for healthcare providers.
 
-- Check out my portfolio at [https://paulborowiecki.netlify.app/](https://paulborowiecki.netlify.app/). There you'll find some of the client sites and personal projects that I've worked on.
+- Check out my portfolio at [paulborowiecki.netlify.app](https://paulborowiecki.netlify.app/). There you'll find some of the client sites and personal projects that I've worked on.
 <br>
 <br>
-<h2 align="center">Connect with me </h2>
+<h2 align="center">Connect With Me </h2>
 <div align="center" style="background:#ffffff;border-radius:5px;">
 <a href="https://techhub.social/@borojetski" target="blank"><img align="center" src="https://github.com/borojetski/borojetski/blob/main/icons/mastodon.svg" alt="mastodon" width="10%" height="48px"/></a>
 <a href="https://twitter.com/borojetski" target="blank"><img align="center" src="https://github.com/borojetski/borojetski/blob/main/icons/twitter.svg" alt="twitter" width="10%" height="48px"/></a>
@@ -29,5 +29,5 @@ Hi. My name is Paul and I'm a software engineer. Experience in government as wel
 <br> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/mongodb.svg" alt="mongodb" width="5%" height="36px"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/postgresql.svg" alt="postgresql" width="5%" height="36px"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/git.svg" alt="git" width="5%" height="36px"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/git.svg" alt="git" width="5%" height="32px"/> </a>
 </div>
