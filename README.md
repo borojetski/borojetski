@@ -4,7 +4,7 @@ Hi. My name is Paul and I'm a software engineer. Experience in government as wel
 
 - I’m currently working on [OpenPCR](https://#), a modern, web-based Patient Care Reporting tool for healthcare providers.
 
-- Check out my portfolio at [paulborowiecki.netlify.app](https://paulborowiecki.netlify.app/). There you'll find some of the client sites and personal projects that I've worked on.
+- Check out my portfolio at [paulborowiecki.com](https://paulborowiecki.netlify.app/). There you'll find some of the client sites and personal projects that I've worked on.
 <br>
 <br>
 <h2 align="center">Connect With Me </h2>
