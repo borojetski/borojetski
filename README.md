@@ -15,7 +15,7 @@ Hi. My name is Paul and I'm a software engineer. Experience in government as wel
 </div>
 <br>
 <br>
-<h2 align="center">🛠 Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 <div align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/html5.svg" alt="html5" width="5%" height="36px"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/css3.svg" alt="css3" width="5%" height="36px"/> </a>
