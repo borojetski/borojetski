@@ -2,7 +2,7 @@
 
 Hi. My name is Paul and I'm a software engineer. Experience in government as well as healthcare, coupled with a lifelong love of computers and tinkering have given me insight into many aspects of problem-solving and working with, for, adjacent to, and around others. I’m open to talk anytime about anything.
 
-- I’m currently working on [OpenPCR](https://#), a modern, web-based Patient Care Reporting tool for healthcare providers.
+- I’m currently working on [OpenCare](https://github.com/borojetski/OpenCare), a modern, web-based Patient Care Tracker for Caregivers.
 
 - Check out my portfolio at [paulborowiecki.com](https://paulborowiecki.com/). There you'll find some of the client sites and personal projects that I've worked on.
 <br>
