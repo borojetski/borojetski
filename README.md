@@ -1,6 +1,4 @@
-![Group 3 (1)](/images/warsaw_banner.jpg)
-
-Hi. My name is Paul and I'm a software engineer. Experience in government as well as healthcare, coupled with a lifelong love of computers and tinkering have given me insight into many aspects of problem-solving and working with, for, adjacent to, and around others. I’m open to talk anytime about anything.
+Hi. My name is Paul and I'm a web developer. Experience in government as well as healthcare, coupled with a lifelong love of computers and tinkering have given me insight into many aspects of problem-solving and working with, for, adjacent to, and around others. I’m open to talk anytime about anything.
 
 - I’m currently working on [OpenCare](https://github.com/borojetski/OpenCare), a modern, web-based Patient Care Tracker for Caregivers.
 
