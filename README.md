@@ -15,17 +15,17 @@ Hi. My name is Paul and I'm a web developer. Experience in government as well as
 <br>
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/html5.svg" alt="html5" width="5%" height="36px"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/css3.svg" alt="css3" width="5%" height="36px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/javascript.svg" alt="javascript" width="5%" height="36px"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/html5.svg" alt="html5" width="5%" height="36px"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/css3.svg" alt="css3" width="5%" height="36px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/javascript.svg" alt="javascript" width="5%" height="36px"/></a>
 <br>
 <br>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/node.svg" alt="nodejs" width="5%" height="36px"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/express.svg" alt="express" width="5%" height="36px"/> </a>
-<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/react.svg" alt="react" width="5%" height="36px"/> </a> -->
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/node.svg" alt="nodejs" width="5%" height="36px"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/express.svg" alt="express" width="5%" height="36px"/></a>
+<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/react.svg" alt="react" width="5%" height="36px"/></a> -->
 <br>
 <br> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/mongodb.svg" alt="mongodb" width="5%" height="36px"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/postgresql.svg" alt="postgresql" width="5%" height="36px"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/git.svg" alt="git" width="5%" height="32px"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/mongodb.svg" alt="mongodb" width="5%" height="36px"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/postgresql.svg" alt="postgresql" width="5%" height="36px"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/git.svg" alt="git" width="5%" height="32px"/></a>
 </div>
