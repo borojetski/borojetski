@@ -28,4 +28,5 @@ Hi. My name is Paul and I'm a web developer. Experience in government as well as
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/mongodb.svg" alt="mongodb" width="5%" height="36px"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/postgresql.svg" alt="postgresql" width="5%" height="36px"/></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/git.svg" alt="git" width="5%" height="32px"/></a>
+<a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/borojetski/borojetski/blob/main/icons/11ty.svg" alt="eleventy" width="5%" height="32px"/></a>
 </div>
